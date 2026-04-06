@@ -6,11 +6,10 @@
 
 ## 📋 Descripción del Proyecto
 
-**FrostyTrack** es una empresa limeña de helados artesanales con delivery a domicilio, fundada en 2010.  
-Opera en varios distritos de Lima con una flota de repartidores y un catálogo de sabores de temporada.
+**FrostyTrack** es una empresa ficticia limeña de helados artesanales con delivery a domicilio. Opera desde 2010 en varios distritos de Lima con una flota de repartidores y un catalogo de sabores de temporada.
 
-Este repositorio documenta el análisis de su base de datos operacional mediante **SQL Server**, 
-resolviendo problemas reales del negocio organizados por nivel de complejidad.
+Este documento presenta la resolucion de **15 problemas de negocio reales** organizados en cuatro niveles de complejidad SQL, junto con las conclusiones tecnicas de cada ejercicio.
+
 
 ---
 
